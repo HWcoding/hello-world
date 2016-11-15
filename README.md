@@ -1,2 +1,3 @@
 # hello-world
-test repo
+
+I'm working my way through the GitHub Guide
